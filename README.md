@@ -1,4 +1,5 @@
-# bmi_app
+# Simple BMI Calculator App Using FLutter and Dart
+<img src="screenshot/Screenshot_20200629-042855.jpg" width=400>
 
 A new Flutter project.
 
